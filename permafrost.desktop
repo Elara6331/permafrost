@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Permafrost
+Icon=/usr/share/pixmaps/permafrost.png
+Type=Application
+Terminal=false
+Exec=permafrost --gui
+Categories=Network;
