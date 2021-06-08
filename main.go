@@ -10,7 +10,7 @@ import (
 	"runtime"
 )
 
-const name = "wvssb"
+const name = "permafrost"
 
 var home string
 

@@ -23,7 +23,7 @@ import (
 	"strings"
 )
 
-//go:embed default.png
+//go:embed permafrost.png
 var defLogo []byte
 
 func createTab(window fyne.Window) *fyne.Container {
